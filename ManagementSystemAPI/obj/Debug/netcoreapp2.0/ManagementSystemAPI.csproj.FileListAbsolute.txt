@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\ManagementSystemAPI\ManagementSystemAPI\obj\Debug\netcoreapp2.0\ManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ManagementSystemAPI\ManagementSystemAPI\obj\Debug\netcoreapp2.0\ManagementSystemAPI.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ManagementSystemAPI\ManagementSystemAPI\obj\Debug\netcoreapp2.0\ManagementSystemAPI.AssemblyInfo.cs
+C:\Users\hp\source\repos\ManagementSystemAPI\ManagementSystemAPI\obj\Debug\netcoreapp2.0\ManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ManagementSystemAPI\ManagementSystemAPI\obj\Debug\netcoreapp2.0\EFCoreNpgsqlNetTopologySuite.cs
